@@ -1,6 +1,6 @@
 // Desenha o logo centralizado
 var cx = room_width / 2;
-var cy = room_height / 3; // Para que fique um pouco elevada
+var cy = room_height / 2; // Para que fique um pouco elevada
 draw_sprite_ext(
     splash_sprite,      // sprite do logo
     0,                // subimagem
